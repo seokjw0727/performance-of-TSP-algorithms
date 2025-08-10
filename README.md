@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h4>Performance of Travelling Salesman Problem algorithms</h4>
+  <h4>Performance of Travelling Salesman Problem Algorithms</h4>
 </div>
 
 **Summary** <br>
