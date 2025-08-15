@@ -41,7 +41,6 @@ python main.py
 - [Qiskit](https://qiskit.org/)
 - [TSPLIB95](https://www.math.uwaterloo.ca/tsp/tsplib95/)
 - [ExploreTSP](https://exploretsp.netlify.app/)
-　
-　
-　
+<br>
+
 *Any feedback or issues should be directed to the GitHub Issues.*
